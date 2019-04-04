@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pokemon_dispute</string>
+    <string-array name="colour">
+        <item>Default</item>
+        <item>blue</item>
+        <item>green</item>
+        <item>red</item>
+        <item>yellow</item>
+        </string-array>
+</resources>
